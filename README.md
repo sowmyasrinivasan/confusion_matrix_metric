@@ -6,4 +6,6 @@ The confusion matrix representation shows the percent of false positives and fal
 
 <img align="center" src="images/cf_matrix.png" alt="cf-matrix">
 
-Another visualization that may be insightful is the bar chart depicting the component that penalizes for change in rank. This is a way to show how the values are separated into bins and how those bin sizes compare with those of the ground truth dataset. 
+One visualization that may be insightful is the bar chart depicting the component that penalizes for change in rank. This is a way to show how the values are separated into bins and how those bin sizes compare with those of the ground truth dataset. 
+
+<img align="center" src="images/10bins.png" alt="cf-matrix">
