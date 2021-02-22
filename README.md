@@ -4,6 +4,6 @@ The confusion matrix metric is a version of the pie chart metric provided for th
 
 The confusion matrix representation shows the percent of false positives and false negatives in a privatized record. Its purpose is to provide an easy way to view the utility of a particular record or the entire dataset. 
 
-<img align="left" src="images/cf_matrix.png" alt="cf-matrix">
+<img align="center" src="images/cf_matrix.png" alt="cf-matrix">
 
 Another visualization that may be insightful is the bar chart depicting the component that penalizes for change in rank. This is a way to show how the values are separated into bins and how those bin sizes compare with those of the ground truth dataset. 
